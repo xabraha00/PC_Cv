@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/256717/CV11/out/build/x64-debug/CMakeFiles/CV11.dir/embed.manifest"
